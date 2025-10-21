@@ -1,0 +1,23 @@
+{
+  "name": "database_task",
+  "version": "1.0.0",
+  "description": "A tutorial on connecting to a database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flashback",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "postgres": "^3.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/09tmum/devx_session_2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/09tmum/devx_session_2/issues"
+  },
+  "homepage": "https://github.com/09tmum/devx_session_2#readme"
+}

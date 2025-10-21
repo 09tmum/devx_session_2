@@ -1,2 +1,1 @@
-# devx_session_2
-devx club repo
+# My devx task 2
